@@ -8,6 +8,7 @@
     "body-parser": "^1.13.3",
     "bull": "^1.0.0-rc1",
     "consolidate": "~0.10.0",
+    "dotenv": "^4.0.0",
     "dustjs-linkedin": "~2.5.1",
     "express": "^4.13.4",
     "less": "~2.1.2",

@@ -1,3 +1,5 @@
+require('dotenv').config({silent: true});
+
 var config = require('./config');
 
 if (!!process.env.PORT)
